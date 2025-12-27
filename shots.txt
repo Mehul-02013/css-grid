@@ -1,0 +1,2 @@
+muti cursor : ctrl + alt + arrows 
+muti cursor mouse : alt + mouse click
